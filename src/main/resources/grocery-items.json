@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Whole milk",
+    "category": "Dairy",
+    "unit": "1 gal",
+    "organic": false
+  },
+  {
+    "id": 2,
+    "name": "Greek yogurt",
+    "category": "Dairy",
+    "unit": "32 oz",
+    "organic": false
+  },
+  {
+    "id": 3,
+    "name": "Cheddar cheese",
+    "category": "Dairy",
+    "unit": "8 oz",
+    "organic": false
+  },
+  {
+    "id": 4,
+    "name": "Bananas",
+    "category": "Produce",
+    "unit": "bunch",
+    "organic": true
+  },
+  {
+    "id": 5,
+    "name": "Baby spinach",
+    "category": "Produce",
+    "unit": "5 oz",
+    "organic": true
+  },
+  {
+    "id": 6,
+    "name": "Roma tomatoes",
+    "category": "Produce",
+    "unit": "1 lb",
+    "organic": false
+  },
+  {
+    "id": 7,
+    "name": "Brown rice",
+    "category": "Pantry",
+    "unit": "2 lb",
+    "organic": false
+  },
+  {
+    "id": 8,
+    "name": "Black beans",
+    "category": "Pantry",
+    "unit": "15 oz can",
+    "organic": false
+  },
+  {
+    "id": 9,
+    "name": "Olive oil",
+    "category": "Pantry",
+    "unit": "500 ml",
+    "organic": false
+  },
+  {
+    "id": 10,
+    "name": "Chicken breast",
+    "category": "Meat",
+    "unit": "1 lb",
+    "organic": false
+  },
+  {
+    "id": 11,
+    "name": "Atlantic salmon",
+    "category": "Seafood",
+    "unit": "12 oz",
+    "organic": false
+  },
+  {
+    "id": 12,
+    "name": "Eggs",
+    "category": "Dairy",
+    "unit": "dozen",
+    "organic": true
+  }
+]
